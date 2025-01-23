@@ -75,12 +75,12 @@ O Herói de nome Mulher Maravilha está no nível de Platina
 ### Passos para executar:  
 1. Clone o repositório:  
    ```bash  
-   git clone <URL_DO_REPOSITORIO>  
+   git clone https://github.com/heyybru/projeto-desafio.js.git  
    ```  
 
 2. Acesse o diretório do projeto:  
    ```bash  
-   cd projeto-classificador-de-nível de-herói 
+   cd projeto-desafio.js
    ```  
 
 3. Execute o programa:  
